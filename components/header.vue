@@ -31,7 +31,9 @@ export default {
   background: #fff;
   border-bottom: 1px solid #eee;
   box-shadow: 0 3px 2px #ccceee;
-  // min-width: 1000px;
+  min-width: 1000px;
+  position: relative;
+  z-index: 2;
 }
 .header {
   width: 1000px;
