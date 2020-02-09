@@ -29,7 +29,9 @@ export default {
 .header-wrapper {
   height: 60px;
   background: #fff;
-  box-shadow: 0 3px 2px #ccceee
+  border-bottom: 1px solid #eee;
+  box-shadow: 0 3px 2px #ccceee;
+  // min-width: 1000px;
 }
 .header {
   width: 1000px;
